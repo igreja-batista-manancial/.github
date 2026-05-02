@@ -2,8 +2,6 @@
 
 <img src="https://github.com/user-attachments/assets/f4b84e6f-367d-42ea-999c-a2d98138d6a3" alt="Igreja Batista Manancial" width="200" />
 
-<h1>Igreja Batista Manancial</h1>
-
 <p>
   <b>Sistema interno de gestão</b><br/>
   <sub>Fortaleza · Ceará · Desde 1964</sub>
