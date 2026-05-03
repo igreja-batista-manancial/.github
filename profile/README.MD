@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./logo.png" alt="Igreja Batista Manancial" width="200" />
+<img src="./logo.png" alt="Igreja Batista Manancial" width="300" />
 
 <p>
 <p>
