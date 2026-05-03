@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/f4b84e6f-367d-42ea-999c-a2d98138d6a3" alt="Igreja Batista Manancial" width="200" />
-
-<br/>
+<img src="./logo.png" alt="Igreja Batista Manancial" width="200" />
 
 <p>
 <p>
